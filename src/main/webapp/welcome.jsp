@@ -12,5 +12,9 @@
 </head>
 <body>
     <h1>Hello ${fullName}  </h1>
+    <br/>
+    <form action="http">
+        <input type="submit" value ="Enter"/>
+    </form>
 </body>
 </html>
